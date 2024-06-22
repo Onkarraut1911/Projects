@@ -1,0 +1,20 @@
+@media (min-width:425px) and (max-width:768px){
+.navigation-nav{
+    position:absolute;
+}
+.dropdown-menu{
+    position: relative;
+    flex-direction: row;
+    visibility: visible;
+    opacity: 1;
+    
+}
+.show{
+    visibility: hidden;
+}
+
+
+
+
+
+}
